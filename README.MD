@@ -11,6 +11,12 @@ Send cryptocurrency payments to Twitter users with simple commands. This project
   </p>
 </div>
 
+## Project Demo Video
+
+[![Hedera Twitter Pay Demo](https://img.youtube.com/vi/bPvA4QLAwHU/0.jpg)](https://www.youtube.com/watch?v=bPvA4QLAwHU "Hedera Twitter Pay Demo - Click to Watch!")
+
+▶️ [Watch my demo on YouTube](https://youtu.be/bPvA4QLAwHU)
+
 ## Hackathon Submission
 
 <div align="center">
